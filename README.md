@@ -50,8 +50,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 📊 My stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=svroo&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=svroo&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![svroo's GitHub stats](https://github-readme-stats.vercel.app/api?username=svroo&show_icons=true&theme=dark)
 
