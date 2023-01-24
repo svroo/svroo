@@ -11,6 +11,9 @@
 <div id='social' align='center'>
   <a href='https://twitter.com/sv_roo' targent='__Blank'>
     <img src="https://img.shields.io/twitter/url?logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fsv_roo" alt="Twitter badge"/>
+    </a>
+    <a href='https://www.linkedin.com/in/rodrigo-salazar-vega-039764263/' target='_blank'>
+    <img src='https://img.shields.io/badge/%20-Linkedin-blue' alt='linkedin icon'>
   </a>
 </div>
 
